@@ -1,0 +1,25 @@
+.Card{
+    border: 3px solid black;
+    border-radius: 10px;
+    overflow: hidden;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    min-width: 300px;
+    
+    
+}
+
+.Card .conteudo{
+    background-color: aliceblue;
+    color: black;
+    flex: 1;
+}
+
+.Card .footer{
+    background-color: black;
+    color: white;
+}
+
+
+
